@@ -1,0 +1,9 @@
+mongodb:
+ primary:
+  host: 127.0.0.1
+  port: 27017
+  database: test_mongo1
+ secondary:
+  host: 127.0.0.1
+  port: 27017
+  database: test_mongo2
